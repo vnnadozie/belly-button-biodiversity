@@ -1,4 +1,6 @@
-# Plot.ly Homework - Belly Button Biodiversity
+#Belly Button Biodiversity
+
+https://vnnadozie.github.io/belly-button-biodiversity/
 
 ![Bacteria](http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg)
 
